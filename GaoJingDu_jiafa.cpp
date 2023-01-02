@@ -1,3 +1,4 @@
+//高精度加法
 #include<iostream>
 #include<cstring>
 using namespace std;
