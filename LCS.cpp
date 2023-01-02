@@ -1,10 +1,8 @@
+//最长公共子列
 #include <cmath>
 #include <iostream>
-//#include <cstdio>
-//#include <cstdlib>
 #include <cstring>
-//#include <algorithm>
- 
+
 using namespace std;
  
 char a[1001], b[1001];
